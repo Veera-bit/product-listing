@@ -54,17 +54,3 @@ Once Clerk is set up and dependencies are installed, follow these steps to run t
   ```
   http://localhost:5173/
   ```
-
-## 4. Application Screenshots
-
-1. Home
-   ![Alt Text](/screenshots/Screenshot%202024-09-18%20at%201.35.10 PM.png)
-
-2. Filter
-   ![Alt Text](/screenshots/Screenshot%202024-09-18%20at%201.35.18 PM.png)
-
-3. Search
-   ![Alt Text](/screenshots/Screenshot%202024-09-18%20at%201.35.28 PM.png)
-
-4. Create Product
-   ![Alt Text](/screenshots//Screenshot%202024-09-18%20at%201.32.50 PM.png)
